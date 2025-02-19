@@ -1,0 +1,15 @@
+{
+  "name": "instsndr",
+  "version": "1.0.0",
+  "description": "send instagram messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-private-api": "^1.46.1",
+    "nexe": "^4.0.0-rc.6"
+  }
+}
